@@ -1,0 +1,43 @@
+$line-height-sm:              1.143 !default;
+$font-size-base: 1rem !default; // Assumes the browser default, typically `16px`
+
+$font-size-lg: $font-size-base * 1.25 !default;
+$font-size-sm: $font-size-base * .875 !default;
+$font-size-ssm: $font-size-base * .75 !default;
+$font-size-sssm: $font-size-base * .65 !default;
+
+
+// color codes
+$gray-50: #EBEBEB !default;
+$gray-100: #f8f9fa !default;
+$gray-200: #e9ecef !default;
+$gray-300: #dee2e6 !default;
+$gray-400: #ced4da !default;
+$gray-500: #adb5bd !default;
+$gray-600: #6c757d !default;
+$gray-700: #495057 !default;
+$gray-800: #343A40 !default;
+$gray-900: #212529 !default;
+$gray-1100: #353A3F !default;
+$gray-1200: #afb5ba !default;
+$white: #fff !default;
+$black: #080808 !default;
+$black-900: #313131 !default;
+$brand: #E71C37 !default;
+
+$red-100: #e84f2e !default;
+
+$green-900:#11B094 !default;
+
+$blue:    #1C3FFD !default;
+$warning:   #F88441 !default;
+
+// Font-related Styles
+
+$alert-bg-scale-custom : -80% !default;
+$alert-border-scale-custom : -50% !default;
+$alert-color-scale-custom: 60% !default;
+
+
+$font-weight-bold: 500;
+$shadow-sm:  0 0.125rem 0.25rem rgb(0 0 0 / 8%);
